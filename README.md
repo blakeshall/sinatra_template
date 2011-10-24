@@ -16,6 +16,3 @@ Start Server
 
     bundle exec thin start
     
-or
-    
-    ruby -rubygems main.rb
